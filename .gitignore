@@ -2,6 +2,7 @@
 config.py
 config_challenge.py
 config_vacation.py
+config_itinerary.py
 
 #adding additional files
 API_practice.ipynb
